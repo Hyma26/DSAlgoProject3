@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="29" passed="28" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-26T20:33:07 CDT" name="DSAlgoSuite" finished-at="2022-08-26T20:34:32 CDT" duration-ms="85498">
+    <groups>
+    </groups>
+    <test started-at="2022-08-26T20:33:07 CDT" name="DSAlgoTest" finished-at="2022-08-26T20:34:32 CDT" duration-ms="85498">
+      <class name="com.dsalgo.qa.testcases.SigninPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.SigninPageTest@1972e513]" started-at="2022-08-26T20:33:54 CDT" name="setup" finished-at="2022-08-26T20:33:57 CDT" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonSignin()[pri:1, instance:com.dsalgo.qa.testcases.SigninPageTest@1972e513]" started-at="2022-08-26T20:33:57 CDT" name="clickonSignin" finished-at="2022-08-26T20:33:57 CDT" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonSignin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.SigninPageTest@1972e513]" started-at="2022-08-26T20:33:57 CDT" name="tearDown" finished-at="2022-08-26T20:33:57 CDT" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.SigninPageTest@1972e513]" started-at="2022-08-26T20:33:57 CDT" name="setup" finished-at="2022-08-26T20:34:01 CDT" duration-ms="3079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:2, instance:com.dsalgo.qa.testcases.SigninPageTest@1972e513]" started-at="2022-08-26T20:34:01 CDT" name="loginTest" finished-at="2022-08-26T20:34:02 CDT" duration-ms="972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.SigninPageTest@1972e513]" started-at="2022-08-26T20:34:02 CDT" name="tearDown" finished-at="2022-08-26T20:34:02 CDT" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dsalgo.qa.testcases.SigninPageTest -->
+      <class name="com.dsalgo.qa.testcases.PortalPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:07 CDT" name="setup" finished-at="2022-08-26T20:33:14 CDT" duration-ms="7191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bannercontentTest()[pri:1, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:14 CDT" name="bannercontentTest" finished-at="2022-08-26T20:33:14 CDT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bannercontentTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:14 CDT" name="tearDown" finished-at="2022-08-26T20:33:15 CDT" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:15 CDT" name="setup" finished-at="2022-08-26T20:33:17 CDT" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonGetStartedBtn()[pri:2, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:17 CDT" name="clickonGetStartedBtn" finished-at="2022-08-26T20:33:18 CDT" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonGetStartedBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:18 CDT" name="tearDown" finished-at="2022-08-26T20:33:18 CDT" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:18 CDT" name="setup" finished-at="2022-08-26T20:33:20 CDT" duration-ms="2060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePageTitle()[pri:3, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:20 CDT" name="HomePageTitle" finished-at="2022-08-26T20:33:20 CDT" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.PortalPageTest@4681c175]" started-at="2022-08-26T20:33:20 CDT" name="tearDown" finished-at="2022-08-26T20:33:20 CDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dsalgo.qa.testcases.PortalPageTest -->
+      <class name="com.dsalgo.qa.testcases.ArrayPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:14 CDT" name="setup" finished-at="2022-08-26T20:34:18 CDT" duration-ms="3729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonArrayGetStartedBtn()[pri:1, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:18 CDT" name="clickonArrayGetStartedBtn" finished-at="2022-08-26T20:34:18 CDT" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonArrayGetStartedBtn -->
+        <test-method signature="clickArraysinPython()[pri:2, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:18 CDT" name="clickArraysinPython" finished-at="2022-08-26T20:34:18 CDT" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickArraysinPython -->
+        <test-method signature="loadTryHere2()[pri:3, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:18 CDT" name="loadTryHere2" finished-at="2022-08-26T20:34:23 CDT" duration-ms="4946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTryHere2 -->
+        <test-method signature="clickArraysUsingList()[pri:4, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:23 CDT" name="clickArraysUsingList" finished-at="2022-08-26T20:34:23 CDT" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickArraysUsingList -->
+        <test-method signature="loadTryHere3()[pri:5, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:23 CDT" name="loadTryHere3" finished-at="2022-08-26T20:34:26 CDT" duration-ms="2583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTryHere3 -->
+        <test-method signature="clickBasicOperationList()[pri:6, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:26 CDT" name="clickBasicOperationList" finished-at="2022-08-26T20:34:26 CDT" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBasicOperationList -->
+        <test-method signature="loadTryHere4()[pri:7, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:26 CDT" name="loadTryHere4" finished-at="2022-08-26T20:34:29 CDT" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTryHere4 -->
+        <test-method signature="clickApplicationsOfArray()[pri:8, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:29 CDT" name="clickApplicationsOfArray" finished-at="2022-08-26T20:34:29 CDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickApplicationsOfArray -->
+        <test-method signature="loadTryHere5()[pri:9, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:29 CDT" name="loadTryHere5" finished-at="2022-08-26T20:34:32 CDT" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTryHere5 -->
+        <test-method signature="clickPracticeQuestions()[pri:10, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:32 CDT" name="clickPracticeQuestions" finished-at="2022-08-26T20:34:32 CDT" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPracticeQuestions -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.dsalgo.qa.testcases.ArrayPageTest@35841320]" started-at="2022-08-26T20:34:32 CDT" name="teardown" finished-at="2022-08-26T20:34:32 CDT" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.dsalgo.qa.testcases.ArrayPageTest -->
+      <class name="com.dsalgo.qa.testcases.DSPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:02 CDT" name="setup" finished-at="2022-08-26T20:34:05 CDT" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickGetStarted()[pri:1, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:05 CDT" name="clickGetStarted" finished-at="2022-08-26T20:34:06 CDT" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickGetStarted -->
+        <test-method signature="clickTimeComplexity()[pri:2, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:06 CDT" name="clickTimeComplexity" finished-at="2022-08-26T20:34:08 CDT" duration-ms="2438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTimeComplexity -->
+        <test-method signature="clickDataStructureTimeComplexity()[pri:3, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:08 CDT" name="clickDataStructureTimeComplexity" finished-at="2022-08-26T20:34:08 CDT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickDataStructureTimeComplexity -->
+        <test-method signature="loadTryHere1()[pri:4, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:08 CDT" name="loadTryHere1" finished-at="2022-08-26T20:34:13 CDT" duration-ms="5024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTryHere1 -->
+        <test-method signature="clickPracticeQuestions()[pri:5, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:13 CDT" name="clickPracticeQuestions" finished-at="2022-08-26T20:34:14 CDT" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPracticeQuestions -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.dsalgo.qa.testcases.DSPageTest@7ae0a9ec]" started-at="2022-08-26T20:34:14 CDT" name="teardown" finished-at="2022-08-26T20:34:14 CDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.dsalgo.qa.testcases.DSPageTest -->
+      <class name="com.dsalgo.qa.testcases.RegisterPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:36 CDT" name="setup" finished-at="2022-08-26T20:33:39 CDT" duration-ms="3135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickRegister()[pri:1, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:39 CDT" name="clickRegister" finished-at="2022-08-26T20:33:39 CDT" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:39 CDT" name="tearDown" finished-at="2022-08-26T20:33:40 CDT" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:40 CDT" name="setup" finished-at="2022-08-26T20:33:43 CDT" duration-ms="2921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRegisterPagewithPasswordMismatch()[pri:2, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:43 CDT" name="testRegisterPagewithPasswordMismatch" finished-at="2022-08-26T20:33:43 CDT" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterPagewithPasswordMismatch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:43 CDT" name="tearDown" finished-at="2022-08-26T20:33:43 CDT" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:45 CDT" name="setup" finished-at="2022-08-26T20:33:48 CDT" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRegistrationSuccess(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:48 CDT" name="testRegistrationSuccess" data-provider="getRegisterData" finished-at="2022-08-26T20:33:49 CDT" duration-ms="887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hyma@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Guna@2015]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guna@2015]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:49 CDT" name="tearDown" finished-at="2022-08-26T20:33:49 CDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:49 CDT" name="setup" finished-at="2022-08-26T20:33:53 CDT" duration-ms="3393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRegistrationSuccess(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:53 CDT" name="testRegistrationSuccess" data-provider="getRegisterData" finished-at="2022-08-26T20:33:54 CDT" duration-ms="915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hyma@1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.RegisterPageTest@302c971f]" started-at="2022-08-26T20:33:54 CDT" name="tearDown" finished-at="2022-08-26T20:33:54 CDT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dsalgo.qa.testcases.RegisterPageTest -->
+      <class name="com.dsalgo.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:20 CDT" name="setup" finished-at="2022-08-26T20:33:23 CDT" duration-ms="2622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePagetitle()[pri:1, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:23 CDT" name="HomePagetitle" finished-at="2022-08-26T20:33:23 CDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePagetitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:23 CDT" name="tearDown" finished-at="2022-08-26T20:33:23 CDT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:23 CDT" name="setup" finished-at="2022-08-26T20:33:26 CDT" duration-ms="2876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="failedHomePageTitle()[pri:2, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:26 CDT" name="failedHomePageTitle" finished-at="2022-08-26T20:33:26 CDT" duration-ms="15" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Numpy Ninjas] but found [NumpyNinja]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Numpy Ninjas] but found [NumpyNinja]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.dsalgo.qa.testcases.HomePageTest.failedHomePageTitle(HomePageTest.java:47)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedHomePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:26 CDT" name="tearDown" finished-at="2022-08-26T20:33:26 CDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:26 CDT" name="setup" finished-at="2022-08-26T20:33:29 CDT" duration-ms="2536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickondropdownBtn()[pri:3, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:29 CDT" name="clickondropdownBtn" finished-at="2022-08-26T20:33:29 CDT" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickondropdownBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:29 CDT" name="tearDown" finished-at="2022-08-26T20:33:29 CDT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:29 CDT" name="setup" finished-at="2022-08-26T20:33:32 CDT" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonGetStarted()[pri:4, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:32 CDT" name="clickonGetStarted" finished-at="2022-08-26T20:33:32 CDT" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonGetStarted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:32 CDT" name="tearDown" finished-at="2022-08-26T20:33:32 CDT" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:32 CDT" name="setup" finished-at="2022-08-26T20:33:35 CDT" duration-ms="2537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickRegisterBtn()[pri:5, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:35 CDT" name="clickRegisterBtn" finished-at="2022-08-26T20:33:36 CDT" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRegisterBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dsalgo.qa.testcases.HomePageTest@305ffe9e]" started-at="2022-08-26T20:33:36 CDT" name="tearDown" finished-at="2022-08-26T20:33:36 CDT" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dsalgo.qa.testcases.HomePageTest -->
+    </test> <!-- DSAlgoTest -->
+  </suite> <!-- DSAlgoSuite -->
+</testng-results>
